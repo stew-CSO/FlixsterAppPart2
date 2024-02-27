@@ -36,14 +36,7 @@ You should refactor and just reuse your existing table view to show similar movi
 
 Library | Loom - 25 February 2024 - Watch Video
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/5de12d8c0c3743239eb117a03e5b398d?sid=74534266-906e-42ad-ba08-284537314ad8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
-https://www.loom.com/share/2ba9edc416f4457baf5a974d53db43f5?sid=06a07b7f-542e-48ad-883d-17f6100d419d
-
-<div style="position: relative; padding-bottom: 62.5%; height: 0;">
-
-
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/5de12d8c0c3743239eb117a03e5b398d?sid=7eaa39be-06c0-435e-af7e-8dea1dd68aa7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 
