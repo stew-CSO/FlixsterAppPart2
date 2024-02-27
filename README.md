@@ -35,13 +35,9 @@ You should refactor and just reuse your existing table view to show similar movi
 **Video Walkthrough
 
 
-
-Library | Loom - 27 February 2024 - Watch Video
-
-    
-https://www.loom.com/embed/5de12d8c0c3743239eb117a03e5b398d?sid=044c1f74-a137-492f-9c9f-edf94254fc4e
-
-<div style="position: relative; padding-bottom: 62.5%; height: 0;">
+https://www.loom.com/share/5de12d8c0c3743239eb117a03e5b398d
+https://cdn.loom.com/sessions/thumbnails/5de12d8c0c3743239eb117a03e5b398d-1709015650263-with-play.gif
+ 
 
 **Notes
 sighs
