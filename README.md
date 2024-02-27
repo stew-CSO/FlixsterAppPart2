@@ -4,35 +4,40 @@ Submitted by: Aneika Stewart
 
 **The Flixster App serves as a movie exploration platform, displaying information on the latest highly-rated films currently playing in nearby theaters. Users can access concise movie summaries, release date details, and ratings, empowering them to make informed decisions about their next movie-going experience.
 
-**Time spent:13 hours spent in total
+**Time spent:4 hours spent in total
 
 **Required Features
 
 **The following required functionality is completed:
 
-✅ Users are able to see a customized app icon and launch screen
 
-✅Your app should work for any screen size and orientation using AutoLayout constraints
+Create a TMDB account here and go to Settings -> API to register for an API key. Fill-out the fields to the best of your ability (some fields you can just put in something random). You will need the API key specified under the API Key (v3 auth) section once your API key request has been approved.
 
-✅ Mark here if you will demonstrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
 
-✅ Displays at least 5 different movies in a table view
+You should use https://api.themoviedb.org/3/movie/now_playing?api_key=YOUR_API_KEY_HERE to fetch the list of movies that are currently playing in theatres. You can find more information about this API endpoint here
 
-✅Can tap into detail view of movie with a full description, backdrop image, and title
 
-**The following optional features are implemented:
+✅ Use a UITabBarController to allow for multiple ways to view movies
+This will allow you to add a new view controller and browse movies using a collection view (see next requirement)
 
-✅ Unique UI changes, such as background, font/color changes, etc.
 
-**The following additional features are implemented:
+✅ View movie posters using a UICollectionView
+This should be in a new view controller that is contained within the tab bar controller you created above
+Tapping on a movie poster will navigate to the book detail view, similar to the table view
 
-✅List anything else that you can get done to improve the app functionality! 
 
-More information is added in a detailed view and it fits orientation. 
+Stretch Features
+Allow users to view similar movies (or another end-point of your choosing)
+Add a button inside the movie detail view so that the user can keep browsing similar movies (see GIF above)
+Use the https://api.themoviedb.org/3/movie/MOVIE_ID/similar?api_key=YOUR_API_KEY_HERE endpoint to get a list of similar movies given a movie id
+You should refactor and just reuse your existing table view to show similar movie results
 
 **Video Walkthrough
 
 Library | Loom - 25 February 2024 - Watch Video
+
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/5de12d8c0c3743239eb117a03e5b398d?sid=74534266-906e-42ad-ba08-284537314ad8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 https://www.loom.com/share/2ba9edc416f4457baf5a974d53db43f5?sid=06a07b7f-542e-48ad-883d-17f6100d419d
 
@@ -43,7 +48,7 @@ https://www.loom.com/share/2ba9edc416f4457baf5a974d53db43f5?sid=06a07b7f-542e-48
 
 
 **Notes
-Working with the constraints, labeling
+sighs
 
 License
 Copyright [2024] [Aneika Stewart]
